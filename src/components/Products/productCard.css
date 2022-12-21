@@ -1,0 +1,10 @@
+.productCard{
+    margin: 20px;
+    width: 20%;
+    padding: 0px;
+}
+
+.cardActions{
+    justify-content: space-between;
+}
+

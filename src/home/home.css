@@ -1,0 +1,16 @@
+.product-container {
+    margin-left: 5%;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.selection-items {
+    width: 20%;
+}
+
+.category-group {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}

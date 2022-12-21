@@ -1,0 +1,24 @@
+.comment-tag{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#address-field{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.navigate-buttons{
+    margin: 0 auto;
+    display: flex;
+   justify-content: center;
+}
+
+.product-order{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+}
